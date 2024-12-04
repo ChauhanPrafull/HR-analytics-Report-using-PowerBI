@@ -6,7 +6,7 @@ performance, and recruitment data, enabling HR teams to make data-driven decisio
 - Visualizes employee attrition, demographics, and performance metrics.
 - Interactive charts with filters for custom data analysis.
 - Trend analysis of HR data over time.
-- 
+  
 # Getting Started:
 -*Clone or download this repository.**
 **Copy code
@@ -15,4 +15,4 @@ git clone https://github.com/yourusername/HR-Analytics-Dashboard.git**
 -Use interactive filters and visualizations to explore the HR metrics.
 
 # Prerequisites:
-Power BI Desktop (download from https://powerbi.microsoft.com/desktop/)
+Power BI Desktop
